@@ -12,19 +12,19 @@ I'm a passionate **AI/ML enthusiast**, **Cloud Developer**, and **Tech Innovator
 
 ## 🧠 Key Projects
 
-### 1. **[HUMAN BLACK BOX – AI-Powered Life Logger & Crash Recorder](#)**  
+### 1. **[HUMAN BLACK BOX – AI-Powered Life Logger & Crash Recorder](https://github.com/jamezjk/HUMAN-BLACKBOX)**  
 A wearable device that captures video, audio, and biometric data to detect accidents, medical emergencies, or attacks. It auto-saves the last 60 seconds and sends alerts to emergency contacts using AI-powered threat detection.
 
-### 2. **[AI-Based Demand Prediction for Inventory Management](#)**  
+### 2. **[AI-Based Demand Prediction for Inventory Management](https://github.com/jamezjk/Invensense)**  
 An AI model for predicting the demand of products in real-time, helping businesses minimize losses due to overstocking and optimize profit by recommending ideal prices for slow-moving products.
 
 ### 3. **[AI-Powered Fake News Detector](#)**  
 Developed an open-source browser extension that detects fake news using AI models like RoBERTa. It provides real-time detection and enables users to report fake news with a Twitter Community Notes-like feedback mechanism.
 
-### 4. **[Real-Time Stock Price Prediction and Visualization Using LSTM](#)**  
+### 4. **[Real-Time Stock Price Prediction and Visualization Using LSTM](https://github.com/jamezjk/cryptotracker)**  
 Built a model using LSTM to predict stock prices in real-time. The project leverages **Matplotlib** for visualizing stock market trends and provides useful insights for investors.
 
-### 5. **[AI Branch Manager – Video-Based Loan Assistance](#)**  
+### 5. **[AI Branch Manager – Video-Based Loan Assistance](https://github.com/jamezjk/loan-approval-api)**  
 Developed a video-based loan assistance system that uses **face recognition** and **speech-to-text** technologies to assist users with loan applications.
 
 ## 💡 Current Focus
@@ -35,13 +35,9 @@ Developed a video-based loan assistance system that uses **face recognition** an
 
 ## 🌐 Connect With Me
 
-- [LinkedIn](#)
-- [Twitter](#)
+- [LinkedIn](https://www.linkedin.com/in/jamezjk/)
 - [Personal Website](#)
 
-## 📊 GitHub Stats
-
-![James' GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamezjk&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ## 🔥 Languages & Tools
 
