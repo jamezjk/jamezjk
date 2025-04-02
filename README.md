@@ -1,14 +1,48 @@
-<h1 align="center">Hi 👋, I'm James J K</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm James 👋
 
-- 👨‍💻 All of my projects are available at [jamezjk.github.io/](jamezjk.github.io/)
+I'm a passionate **AI/ML enthusiast**, **Cloud Developer**, and **Tech Innovator** with a deep interest in creating solutions that solve real-world problems using technology. I specialize in **AI**, **Cloud Computing**, and **Machine Learning** and enjoy building robust, scalable systems.
 
-- ⚡ Fun fact **I am Funny**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/jamezx.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jamezx.14" height="30" width="40" /></a>
-</p>
+- 💻 **Programming Languages**: Python, JavaScript, Java
+- ☁️ **Cloud**: AWS Certified Cloud Developer, Terraform, AWS Lambda, S3, Redshift, RDS
+- 🤖 **AI & ML**: Deep learning (CNN, GRU, LSTM), NLP, AI forecasting, demand prediction
+- 📊 **Data Science**: Stock prediction models, cryptocurrency tracking, trend analysis, and visualization
+- 🔧 **Tools & Frameworks**: VS Code, TensorFlow, Keras, PyTorch, FastAPI, Flask, React Native
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🧠 Key Projects
+
+### 1. **[HUMAN BLACK BOX – AI-Powered Life Logger & Crash Recorder](#)**  
+A wearable device that captures video, audio, and biometric data to detect accidents, medical emergencies, or attacks. It auto-saves the last 60 seconds and sends alerts to emergency contacts using AI-powered threat detection.
+
+### 2. **[AI-Based Demand Prediction for Inventory Management](#)**  
+An AI model for predicting the demand of products in real-time, helping businesses minimize losses due to overstocking and optimize profit by recommending ideal prices for slow-moving products.
+
+### 3. **[AI-Powered Fake News Detector](#)**  
+Developed an open-source browser extension that detects fake news using AI models like RoBERTa. It provides real-time detection and enables users to report fake news with a Twitter Community Notes-like feedback mechanism.
+
+### 4. **[Real-Time Stock Price Prediction and Visualization Using LSTM](#)**  
+Built a model using LSTM to predict stock prices in real-time. The project leverages **Matplotlib** for visualizing stock market trends and provides useful insights for investors.
+
+### 5. **[AI Branch Manager – Video-Based Loan Assistance](#)**  
+Developed a video-based loan assistance system that uses **face recognition** and **speech-to-text** technologies to assist users with loan applications.
+
+## 💡 Current Focus
+
+- Building AI-powered solutions for inventory management
+- Fine-tuning models for real-time data analysis and stock prediction
+- Developing smarter, more scalable cloud architectures using AWS
+
+## 🌐 Connect With Me
+
+- [LinkedIn](#)
+- [Twitter](#)
+- [Personal Website](#)
+
+## 📊 GitHub Stats
+
+![James' GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamezjk&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+## 🔥 Languages & Tools
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamezjk&layout=compact&theme=radical)
